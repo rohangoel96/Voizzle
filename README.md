@@ -18,7 +18,7 @@ Also, the clients need to play the game in **Google Chrome Browser**. We do not 
 
 The Game is best viewed on full screen. (Press F11 for toggling full screen)
 
-##Installation
+## Installation
 
 ```bash
 git clone https://github.com/CodeCorp/Voizzle.git
@@ -27,7 +27,7 @@ npm install
 node server.js
 ```
 
-##Game Play
+## Game Play
 To start a new game press New Game button after entering the puzzle number in the text field beside the New Game button.
 
 Press the speak button to start when you're ready to speak. The animation in the text field denotes when the app is listening.
@@ -46,9 +46,9 @@ If your word is not getting recognised because of the pronunciation, you can spe
 
 
 
-##Contributors
+## Contributors
 * Pulkit Agarwal ([@thepulkitagarwal](https://github.com/thepulkitagarwal))
 * Rohan Goel ([@rohangoel96](https://github.com/rohangoel96))
 
-##License
+## License
 Voizzle is licensed under the [MIT License](https://github.com/CodeCorp/Voizzle/blob/master/LICENSE.md)
